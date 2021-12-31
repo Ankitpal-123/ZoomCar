@@ -1,0 +1,127 @@
+nav {
+  position: fixed;
+}
+.navbar li {
+  float: left;
+  list-style: none;
+  margin: 13px 20px;
+}
+.navbar ul {
+  overflow: auto;
+}
+.navbar img {
+  margin-left: 250px;
+  height: 24px;
+}
+
+.navbar li a {
+  padding: 3px 3px;
+  text-decoration: none;
+  color: white;
+}
+
+.text-align-center {
+  text-align: center;
+  margin-top: 20px;
+}
+.button {
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  margin-left: 550px;
+}
+.conn:active {
+  background-color: #10a310;
+}
+
+.navbar button {
+  float: right;
+}
+
+.inspriring {
+  color: white;
+  width: 500px;
+  font-size: 36px;
+  height: 95px;
+  text-align: center;
+  margin-left: 400px;
+  margin-top: 250px;
+}
+.suite {
+  font-size: 16px;
+  margin-left: 400px;
+  padding: 16px;
+  color: white;
+  width: 500px;
+  text-align: center;
+}
+.demo {
+  width: 220px;
+  height: 40px;
+  font: 14px;
+  background-color: #10a310;
+  margin-left: 550px;
+  border-radius: 10px;
+  color: white;
+}
+.btn-1{
+  margin-left:255px;
+}
+.sli-body{
+  background-color: #f5f5f5;
+  height: 800px;
+  width: 850px;
+  margin-top: -30px;
+
+  margin-left:270px;
+}
+.slider{
+  padding-top: 15px;
+  padding-left: 20px;
+}
+.main-dis{
+ padding-left:70px;
+ padding-top:60px;
+ 
+}
+.discription{
+ width: 620px;
+
+  text-align: center;
+  margin-left:50px ;
+}
+.primayr-title{
+  display:flex;
+  
+
+}
+.primayr-title-1{
+  display:flex;
+
+}
+.secondary-sub-text{
+  display:flex;
+}
+.secondary-sub-text-1{
+  display:flex;
+}
+
+.real-time{
+  margin-left: 20px;
+}
+
+.green-header{
+  text-align: center;
+  margin-top:50px;
+  padding-top: 50px;
+ 
+}
+.green{
+background-image: url(	https://www.zoomcar.com/assets/component-images/bound@2x.476261040c66e2e84987563e0b955b44.jpg);
+height: 550px;
+color:white;
+
+}
+.card-container{
+  display: flex;
+}

@@ -1,0 +1,113 @@
+/* * {
+  margin-left: -1px;
+} */
+.navbar-item {
+  display: flex;
+  list-style: none;
+}
+nav ul li a {
+  padding: 3px 3px;
+  text-decoration: none;
+  color: white;
+}
+
+.navbar {
+  background-color: black;
+  color: white;
+  height: 72px;
+  width: 1536px;
+}
+i {
+  margin-top: 15px;
+  cursor: pointer;
+}
+nav .item-2 {
+  font-size: 20px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+nav .item-1 {
+  width: 734px;
+
+  margin-left: 15px;
+  margin-top: 12px;
+  filter: invert(1);
+}
+nav .item-3 {
+  width: 38.25px;
+  margin-top: 15px;
+  font-size: 20px;
+  margin-left: 150px;
+  cursor: pointer;
+}
+
+nav .item-4 {
+  margin-top: 15px;
+  width: 38.25px;
+  margin-top: 15px;
+  font-size: 20px;
+  margin-left: 150px;
+  cursor: pointer;
+}
+.img {
+  width: 1536px;
+  height: 538.5px;
+  position: absolute;
+}
+.tap {
+  background-image: url("Capture.JPG");
+  width: 1536px;
+  height: 583px;
+}
+
+i {
+  color: green;
+  margin-top: 0px;
+  margin-left: 10px;
+}
+.tap-webp {
+  z-index: 999;
+  position: relative;
+}
+
+.the-comfort {
+  margin-top: 50px;
+  justify-content: center;
+  align-content: space-evenly;
+  display: flex;
+}
+
+.img1 {
+  height: 238px;
+  width: 476px;
+  margin-left: -30px;
+  border-radius: 5px;
+}
+.img2 {
+  height: 238px;
+  width: 476px;
+  margin-left: 30px;
+  border-radius: 5px;
+}
+.img3 {
+  width: 984px;
+  margin-top: 50px;
+  margin-left: 255px;
+  height: 492px;
+  border-radius: 5px;
+}
+.dropdown {
+  text-align: center;
+}
+
+.hare {
+  width: 1030px;
+  font-size: 100px;
+}
+.fotter {
+  font-weight: bold;
+  font-size: 14px;
+}
+.fotter-1 {
+  font-size: 12px;
+}

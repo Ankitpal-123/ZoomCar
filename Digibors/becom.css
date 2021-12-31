@@ -1,0 +1,216 @@
+.start {
+  width: 1110px;
+  height: 410.51px;
+}
+
+.container {
+  position: relative;
+  margin-top: 50px;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 30px;
+
+  margin-left: 150px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.nevtext {
+  display: flex;
+  width: 486px;
+}
+h1 {
+  width: 400px;
+}
+h4 {
+  width: 200px;
+}
+.cap3 {
+  width: 538.11px;
+}
+.simple {
+  font-family: IBM Plex Sans;
+  font-size: 42px;
+  font-weight: 600;
+  line-height: 1.29;
+  color: #1f1f1f;
+  text-align: center;
+  margin-top: 100px;
+  width: 1000px;
+  margin-left: 255px;
+}
+
+.container-2 {
+  width: 1000px;
+  display: flex;
+  margin-left: 255px;
+  padding: 0 40px;
+  height: 250px;
+}
+.become {
+  width: 450px;
+  height: 72px;
+}
+
+.free {
+  margin-top: 30px;
+}
+.img-3 {
+  height: 198px;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+.sign {
+  margin-left: 50px;
+  margin-top: 60px;
+}
+.img-4 {
+  height: 198px;
+  margin-top: 30px;
+}
+.card-title {
+  height: 24px;
+  width: 300px;
+}
+.car {
+  display: flex;
+  width: 1094px;
+}
+
+.groe {
+  margin-top: 50px;
+  margin-left: 250px;
+}
+.join {
+  margin-top: 50px;
+  margin-left: 250px;
+}
+
+.pepole {
+  margin-left: 255px;
+  width: 500px;
+  height: 250px;
+  padding-top: 50px;
+}
+
+.section {
+  display: flex;
+  text-align: center;
+
+  width: 1110px;
+}
+
+.vertical {
+  border-left: 1px solid grey;
+  height: 100px;
+}
+.para {
+  font-size: 20px;
+}
+
+.pirce {
+  font-weight: bold;
+}
+
+.your {
+  font-size: 48px;
+  width: 1030px;
+
+  margin-left: 255px;
+}
+button {
+  margin-left: 255px;
+  font-family: IBM Plex Sans;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.14;
+  letter-spacing: 0.8px;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 16px 20px;
+  border-radius: 4px;
+  background-color: #10a310;
+  margin-bottom: 20px;
+  display: block;
+  border: none;
+}
+
+.vedio {
+  margin-left: 225px;
+  height: 300px;
+  width: 1110px;
+  margin-top: 25px;
+  background-color: rgb(245, 244, 246);
+  border-radius: 10px;
+}
+.host {
+  text-align: center;
+  padding-top: 30px;
+}
+.stil {
+  display: flex;
+  width: 1110px;
+  height: 200px;
+  margin-top: 200px;
+  margin-left: 225px;
+}
+.have {
+  margin-left: 25px;
+  font-family: IBM Plex Sans;
+  font-size: 42px;
+  font-weight: 600;
+  margin-top: 50px;
+  line-height: 1.29;
+}
+.need-to-meet {
+  margin-left: 250px;
+}
+hr {
+  width: 650px;
+}
+
+.stil span {
+  right: 1px;
+}
+
+.cus {
+  display: flex;
+}
+.facon {
+  display: flex;
+}
+.help {
+  height: 150px;
+
+  margin-left: 100px;
+  padding: 16px 0 0 16px;
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+  width: 650px;
+}
+.never {
+  background-color: rgb(245, 245, 245);
+  width: 1110px;
+  margin-left: 255px;
+  height: 200px;
+  font-size: 16px;
+}
+
+.stop {
+  width: 100px;
+  color: rgb(243, 213, 213);
+  padding-top: 20px;
+  padding-left: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.more {
+  margin-left: 255px;
+  margin-top: 15px;
+  padding-left: 10px;
+  width: 1110px;
+  color: #666666;
+}
